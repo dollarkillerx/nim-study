@@ -42,4 +42,11 @@ else:
 ``` 
 #### While
 ```nim
+# while
+var i = 0
+while i<1000:
+    echo i
+    i+=1
 ```
+
+# 学了一半 感觉这个语法 (⊙o⊙)… 弃坑
